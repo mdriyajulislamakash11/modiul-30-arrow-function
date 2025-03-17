@@ -13,5 +13,8 @@ console.log("_____________")
 const values = Object.values(glass);
 console.log(values)
 
+const x = 12;
+console.log(x)
+
 const en = Object.entries(glass);
 console.log(en)
